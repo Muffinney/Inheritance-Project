@@ -39,11 +39,4 @@ Difference of prices:
 print(l1-s1)
 ```
 
-### Example
-```
-bestCard = Creature(0.35, "green", "Colossal Dreadmaw", "4GG", 6, 6)
-print(bestCard)
-```
-This outputs "Colossal Dreadmaw is a green creature spell with a mana cost of 4GG and stats of 6/6 that costs $0.35"
-
 By Matthew F
