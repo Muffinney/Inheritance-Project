@@ -1,4 +1,4 @@
-# Inheritance-Project
+# Inheritance Project Version 1.0
 This is a nongraphical application that compares the pricess of different Magic the Gathering cards with classes and subclasses
 
 ### How to create a new object
@@ -29,7 +29,14 @@ print(l1)
 '''
 
 ### How to compare monetary costs
-
-##### Adding prices
-### Example
+Adding prices:
 '''
+print(l1+s1)
+'''
+
+Difference of prices:
+'''
+print(l1-s1)
+'''
+
+Code by Matthew F
